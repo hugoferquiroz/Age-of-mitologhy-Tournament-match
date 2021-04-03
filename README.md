@@ -1,2 +1,2 @@
 # Age-of-mitologhy-Tournament-match
-This code builds teams of 2 participants balanced by experience in the game
+The tournament “AOM Latino” is a competition between player of the RTS’s game  (real time strategy) Age of Mitologhy. This code was created for building balanced teams by experience in the game
